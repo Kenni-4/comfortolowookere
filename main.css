@@ -362,6 +362,10 @@ body {
     .about .col-sm-6 {
         padding:10px;
       }
+    
+    .about .col-sm-6, .about .col-sm-4, .about .col-sm-7 {
+    padding:0 10px;
+  }
 }
 
 @media (max-width:575.98px) {
