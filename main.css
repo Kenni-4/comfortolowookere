@@ -332,7 +332,7 @@ body {
 .portfolio-section .portfolio-grid .portfolio-wrapper:hover .item-content {
     opacity: 1;
     visibility: visible;
-    color:#000000;
+    color:#000000 !important;
 }
 
 @media (max-width:767.98px) {
